@@ -1,7 +1,7 @@
 
 # Talk-A-Tive
 
-Talk-a-tive is a Full Stack Chatting App.
+Chat-o-nation is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 ## Tech Stack
 
@@ -15,7 +15,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 https://chat-o-nation.herokuapp.com/
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/PolsanePrathamesh/mern-chat-app/blob/main/screenshots/screenshot.JPG)
 ## Run Locally
 
 Clone the project
